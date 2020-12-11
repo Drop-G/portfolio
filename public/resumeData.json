@@ -107,52 +107,52 @@
   "portfolio":{
     "projects": [
       {
-        "title":"",
-        "category":"",
-        "image":"",
-        "url":""
+        "title":"AdvenSure",
+        "category":"Travel App made with ReactJs",
+        "image":"AdvenSure.png",
+        "url":"https://github.com/Drop-G/AdvenSure"
       },
       {
-        "title":"",
-        "category":"",
-        "image":"",
-        "url":""
+        "title":"Mobile Wallet",
+        "category":"Mobile Wallet is a Progressive Web App Example made using local storage to store financial notes without using sensitive informaton ",
+        "image":"BudgetTracker.png",
+        "url":"https://github.com/Drop-G/budget-tracker"
       },
       {
-        "title":"",
-        "category":"",
-        "image":"",
-        "url":""
+        "title":"Gert Me Outta Here (GO'H)",
+        "category":"Weather and Map API application that shows users where to get out and go too.",
+        "image":"GOH.png",
+        "url":"https://github.com/Drop-G/GetMeOutOfHereApp"
       },
       {
-        "title":"",
-        "category":"",
-        "image":"",
-        "url":""
+        "title":"Employee Directory",
+        "category":"visual Employee Database, uses random people API for mock employees",
+        "image":"staff.png",
+        "url":"https://github.com/Drop-G/WorkLyfe"
       },
       {
-        "title":"",
-        "category":"",
-        "image":"",
-        "url":""
+        "title":"React Reading List",
+        "category":"Simple reading list application using local storage",
+        "image":"ReactReadingList.png",
+        "url":"https://github.com/Drop-G/ReactReadingList"
       },
       {
-        "title":"",
-        "category":"",
-        "image":"",
-        "url":""
+        "title":"Mobile Trainer",
+        "category":"Javascript Mobile Trainer, saves workouts and gathers stats to make visual representations of progress",
+        "image":"mobile-trainer.png",
+        "url":"https://github.com/Drop-G/mobile-trainer"
       },
       {
-        "title":"",
-        "category":"",
-        "image":"",
-        "url":""
+        "title":"Note Taker",
+        "category":"Note Taker Assistant made with javascript and Express ",
+        "image":"NoteTaker.png",
+        "url":"https://github.com/Drop-G/NoteTakerAssistant"
       },
       {
-        "title":"",
-        "category":"",
-        "image":"",
-        "url":""
+        "title":"Merx SpeedRunner",
+        "category":"Video Game SpeedRun Application",
+        "image":"merx.png",
+        "url":"https://github.com/Drop-G/Merx"
       }
     ]
   }
