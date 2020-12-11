@@ -182,7 +182,7 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #000524;
+   background: #0F9095;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -201,10 +201,11 @@ ul#nav li.current a { color: #fe6928; }
    color: #ccc;
 }
 #about .profile-pic {
-   position: relative;
-   width: 120px;
-   height: 120px;
+   position: static;
+   width: 200px;
+   height: 200px;
    border-radius: 100%;
+   object-fit: cover;
 }
 #about .contact-details { width: 41.66667%; }
 #about .download {
@@ -214,7 +215,7 @@ ul#nav li.current a { color: #fe6928; }
 #about .main-col { padding-right: 5%; }
 #about .download .button {
    margin-top: 6px;
-   background: #444;
+   background: #111;
 }
 #about .download .button:hover {
    background: #fff;
@@ -1017,8 +1018,8 @@ footer .social-links li:first-child { margin-left: 0; }
    margin-right: 15px;
 }
 .project-btn{
-   background-color: #1abc9c !important;
+   background-color: #0b526e !important;
 }
 .github-btn{
-   background-color: #34495e !important;
+   background-color: #4ebcc0 !important;
 }
