@@ -414,6 +414,8 @@ ul#nav li.current a { color: #0F9095; }
    background: #ebeeee;
    padding-top: 90px;
    padding-bottom: 60px;
+   height: 100vh;
+   width: auto;
 }
 #portfolio h1 {
    font: 15px/24px 'opensans-semibold', sans-serif;
