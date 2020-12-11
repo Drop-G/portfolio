@@ -3,8 +3,8 @@
     "name":"Ted Peters",
     "description":"Junior Full Stack Web Developer",
     "image":"profilepic.jpg",
-    "bio":"I am a animal loving, creative. Currently living in Austin Texas, but I have moved around the United States quite a bit. Whenever I need a breathe of fresh air or to get out of my head I like to go hiking, skateboarding, painting, or if I can cook a nice meal for friends and family I would choose that above all else.",
-    "contactmessage":"If you are interested in contacting me for anything please do so here. If you prefer to talk by phone just include your info in your message and I will get back to you as soon as possible.",
+    "bio":"I am an animal loving, creative. Currently living in Austin Texas, but I have moved around the United States quite a bit. Whenever I need a breathe of fresh air or to get out of my head I like to go hiking, skateboarding, painting, or if I can cook a nice meal for friends and family I would definitely choose that over all else.",
+    "contactmessage":"If you are interested in contacting me for anything, please do so here. If you prefer to talk by phone just include your info in your message so I will get back to you as soon as possible.",
     "email": "droppindbs@gmail.com",
     "phone": "",
     "github":"https://github.com/Drop-G",
@@ -46,19 +46,19 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here are some of my skills, I want to be clear with who is reading this right now. I have years of experience in kitchens filling complicated roles on the line. Because of the pandemic the restaurant industry has taken a serious dive and I found myself unsure of what to do next. Mid 2020, over the summer I decided that because I love computers and proplem solving that I would commit to learning full stack web development. I had experience with building some functions and command line interfaces with python or javascript and node.js. Now I have a more broad skillset, having been exposed and worked with languages like HTML5, CSS, SCSS, XML, ReactJS, NodeJS, JQuery, Javascript, MySQL, MongoDB, and I some experience with Swift.",
+    "skillmessage":" I want to be clear with who is reading this right now about my experience in the tech industry. I have years of experience in kitchens filling complicated roles on the line. Now, because of the pandemic the restaurant industry has taken a serious dive and I immediatly started brainstorming solutions. So because I love computers and problem solving that I decided to commit to learning full stack web development. Theres still so much to discover, but nso far I have built functioning applications with languages like HTML5, CSS, SCSS, XML, ReactJS, NodeJS, JQuery, Javascript, MySQL, MongoDB, and I some experience with Swift.",
     "education":[
       {
         "school":"Gateway Community College",
         "degree":"liberal Arts and Sciences",
         "graduated":"2010-2012",
-        "description":"I left after 4 semesters with only a few more classes to finish, but with no clear vision of what I wanted to do I moved from CT to Maine to explore culinary options. I started Cooking to support myself around this time."
+        "description":""
       },
       {
         "school":"Southern Maine Community College",
         "degree":"Biotechnology",
         "graduated":"2014-2015",
-        "description":"It was a good experience. I actually found that I really enjoy philosophy while sutdying here. The problem was I couldn't support myself and pay for school on a little more than minimum wage at that time."
+        "description":""
       }
     ],
     "skills":[
@@ -71,12 +71,24 @@
         "level":"55%"
       },
       {
+        "name":"Python",
+        "level":"25%"
+      },
+      {
+        "name":"Express",
+        "level":"80%"
+      },
+      {
         "name":"MySQL",
         "level":"35%"
       },
       {
         "name":"MongoDB",
         "level":"70%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"60%"
       },
       {
         "name":"CSS",
@@ -87,16 +99,8 @@
         "level":"40%"
       },
       {
-        "name":"NodeJs",
-        "level":"60%"
-      },
-      {
-        "name":"Express",
-        "level":"80%"
-      },
-      {
         "name":"Swift",
-        "level":"5%"
+        "level":"15%"
       }
     ]
   },
