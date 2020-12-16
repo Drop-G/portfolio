@@ -19,24 +19,9 @@
     "resumedownload":"https://docs.google.com/document/d/e/2PACX-1vTc6bkkTvIpbuTQtQrL0h6Qb4s_vfjLgR6GfKerckvyfAjBHU8m56F57QN2ihxTeClSi1HXh201_n7u/pub",
     "social":[
       {
-        "name":"facebook",
-        "url":"facebook.com",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/tedpeters/",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"instagram.com",
-        "className":"fa fa-instagram"
       },
       {
         "name":"github",
@@ -49,10 +34,10 @@
     "skillmessage":"I have years of experience in kitchens filling complicated roles on the line. When the restaurant industry as a whole took a serious dive I began brainstorming solutions. I love computers and problem solving, so figured why not commit to learning full stack web development. I have learned so much in the past couple months and theres still so much to discover. So far I have built functioning applications with languages like HTML5, CSS, SCSS, XML, ReactJS, NodeJS, JQuery, Javascript, MySQL, MongoDB, and I some experience with Swift.",
     "education":[
       {
-        "school":"Univeristy of Texas at Austin",
+        "school":"University of Texas at Austin",
         "degree":"Full Stack Web Development Bootcamp",
         "graduated":"2020-2020",
-        "description":"Studied 80 hrs+ a week, in order to learn how to use specific libraries and languages to create fully functioning and responsive progressive web applications."
+        "description":"Studied 80 hrs+ a week to learn how to use specific libraries and languages to create fully functioning and responsive progressive web applications."
       },
       {
         "school":"Portland Community College",
