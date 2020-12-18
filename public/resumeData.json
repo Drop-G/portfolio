@@ -159,7 +159,7 @@
       {
         "title":"Django Blog",
         "category":"Blog application made using python and django",
-        "image":"securedblog",
+        "image":"securedblog.png",
         "url":"https://github.com/Drop-G/SecuredBlog",
         "live":"https://secured-blog.herokuapp.com/"
       }
