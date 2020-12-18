@@ -3,8 +3,8 @@
     "name":"Ted Peters",
     "description":"Junior Full Stack Web Developer",
     "image":"profilepic.jpg",
-    "bio":"I am an animal loving, creative. Currently living in Austin Texas, but I have moved around the United States quite a bit. Whenever I need a breathe of fresh air or to get out of my head I like to go hiking, skateboarding, painting, or if I can cook a nice meal for friends and family I would definitely choose that over all else.",
-    "contactmessage":"If you are interested in contacting me for anything, please do so here. If you prefer to talk by phone just include your info in your message so I will get back to you as soon as possible.",
+    "bio":"I am Currently living in Austin Texas, but I have moved around the United States quite a bit. Whenever I need a breathe of fresh air or to get out of my head I like to go hiking, skateboarding, painting, or if I can cook a nice meal for friends and family I would definitely choose that over all else.",
+    "contactmessage":"If you are interested in contacting me for anything, please do so here. If you prefer to talk by phone just include your info in your message so I can get back to you as soon as possible.",
     "email": "droppindbs@gmail.com",
     "phone": "",
     "github":"https://github.com/Drop-G",
@@ -31,7 +31,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"I have years of experience in kitchens filling complicated roles on the line. When the restaurant industry as a whole took a serious dive I began brainstorming solutions. I love computers and problem solving, so figured why not commit to learning full stack web development. I have learned so much in the past couple months and theres still so much to discover. So far I have built functioning applications with languages like HTML5, CSS, SCSS, XML, ReactJS, NodeJS, JQuery, Javascript, MySQL, MongoDB, and I some experience with Swift.",
+    "skillmessage":"I have built functioning applications with languages like HTML5, CSS, SCSS, XML, ReactJS, NodeJS, JQuery, Javascript, MySQL, MongoDB, and I some experience with Swift.",
     "education":[
       {
         "school":"University of Texas at Austin",
@@ -159,7 +159,7 @@
       {
         "title":"Django Blog",
         "category":"Blog application made using python and django",
-        "image":"secureblog.png",
+        "image":"securedblog",
         "url":"https://github.com/Drop-G/SecuredBlog",
         "live":"https://secured-blog.herokuapp.com/"
       }
