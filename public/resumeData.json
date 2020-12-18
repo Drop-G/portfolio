@@ -31,7 +31,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"I have built functioning applications with languages like HTML5, CSS, SCSS, XML, ReactJS, NodeJS, JQuery, Javascript, MySQL, MongoDB, and I some experience with Swift.",
+    "skillmessage":"I have built functioning applications with languages like HTML5, CSS, SCSS, XML, ReactJS, NodeJS, JQuery, Javascript, MySQL, MongoDB, and Swift.",
     "education":[
       {
         "school":"University of Texas at Austin",
@@ -109,56 +109,56 @@
     "projects": [
       {
         "title":"AdvenSure",
-        "category":"Travel App made with ReactJs",
-        "image":"AdvenSure.png",
+        "category":"click here to see the code",
+        "image":"advenSure.png",
         "url":"https://github.com/Drop-G/AdvenSure",
         "live":"https://advensurez.herokuapp.com/"
       },
       {
         "title":"Mobile Wallet",
-        "category":"Mobile Wallet is a Progressive Web App Example made using local storage to store financial notes without using sensitive informaton ",
-        "image":"BudgetTracker.png",
+        "category":"click here to see the code",
+        "image":"budget.png",
         "url":"https://github.com/Drop-G/budget-tracker",
         "live":"https://mobile-wally.herokuapp.com/"
       },
       {
         "title":"Get Me Outta Here (GO'H)",
-        "category":"Weather and Map API application that shows users where to get out and go too.",
-        "image":"GOH.png",
+        "category":"click here to see the code",
+        "image":"gmoh.png",
         "url":"https://github.com/Drop-G/GetMeOutOfHereApp",
         "live":"https://drop-g.github.io/GetMeOutOfHereApp/"
       },
       {
         "title":"Employee Directory",
-        "category":"visual Employee Database, uses random people API for mock employees",
-        "image":"Staff.png",
+        "category":"click here to see the code",
+        "image":"staff.png",
         "url":"https://github.com/Drop-G/WorkLyfe",
         "live":"https://staff-station.herokuapp.com/"
       },
       {
         "title":"React Reading List",
-        "category":"Simple reading list application using local storage",
-        "image":"ReactReadingList.png",
+        "category":"click here to see the code",
+        "image":"readinglist.png",
         "url":"https://github.com/Drop-G/ReactReadingList",
         "live":"https://i-read-books.herokuapp.com/"
       },
       {
         "title":"Mobile Trainer",
-        "category":"Javascript Mobile Trainer, saves workouts and gathers stats to make visual representations of progress",
-        "image":"mobile-trainer.png",
+        "category":"click here to see the code",
+        "image":"fitnesstracker.png",
         "url":"https://github.com/Drop-G/mobile-trainer",
         "live":"https://mobile-trainer.herokuapp.com/"
       },
       {
         "title":"Note Taker",
-        "category":"Note Taker Assistant",
-        "image":"NoteTaker.png",
+        "category":"click here to see the code",
+        "image":"notes.png",
         "url":"https://github.com/Drop-G/NoteTakerAssistant",
         "live":"https://scribe-for-me.herokuapp.com/"
       },
       {
         "title":"Django Blog",
-        "category":"Blog application made using python and django",
+        "category":"click here to see the code",
         "image":"securedblog.png",
         "url":"https://github.com/Drop-G/SecuredBlog",
         "live":"https://secured-blog.herokuapp.com/"
