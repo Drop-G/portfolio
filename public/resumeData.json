@@ -98,6 +98,10 @@
       {
         "name":"Swift",
         "level":"15%"
+      },
+      {
+        "name":"Django",
+        "level":"25%"
       }
     ]
   },
@@ -107,49 +111,57 @@
         "title":"AdvenSure",
         "category":"Travel App made with ReactJs",
         "image":"AdvenSure.png",
-        "url":"https://github.com/Drop-G/AdvenSure"
+        "url":"https://github.com/Drop-G/AdvenSure",
+        "live":"https://advensurez.herokuapp.com/"
       },
       {
         "title":"Mobile Wallet",
         "category":"Mobile Wallet is a Progressive Web App Example made using local storage to store financial notes without using sensitive informaton ",
         "image":"BudgetTracker.png",
-        "url":"https://github.com/Drop-G/budget-tracker"
+        "url":"https://github.com/Drop-G/budget-tracker",
+        "live":"https://mobile-wally.herokuapp.com/"
       },
       {
-        "title":"Gert Me Outta Here (GO'H)",
+        "title":"Get Me Outta Here (GO'H)",
         "category":"Weather and Map API application that shows users where to get out and go too.",
         "image":"GOH.png",
-        "url":"https://github.com/Drop-G/GetMeOutOfHereApp"
+        "url":"https://github.com/Drop-G/GetMeOutOfHereApp",
+        "live":"https://drop-g.github.io/GetMeOutOfHereApp/"
       },
       {
         "title":"Employee Directory",
         "category":"visual Employee Database, uses random people API for mock employees",
         "image":"Staff.png",
-        "url":"https://github.com/Drop-G/WorkLyfe"
+        "url":"https://github.com/Drop-G/WorkLyfe",
+        "live":"https://staff-station.herokuapp.com/"
       },
       {
         "title":"React Reading List",
         "category":"Simple reading list application using local storage",
         "image":"ReactReadingList.png",
-        "url":"https://github.com/Drop-G/ReactReadingList"
+        "url":"https://github.com/Drop-G/ReactReadingList",
+        "live":"https://i-read-books.herokuapp.com/"
       },
       {
         "title":"Mobile Trainer",
         "category":"Javascript Mobile Trainer, saves workouts and gathers stats to make visual representations of progress",
         "image":"mobile-trainer.png",
-        "url":"https://github.com/Drop-G/mobile-trainer"
+        "url":"https://github.com/Drop-G/mobile-trainer",
+        "live":"https://mobile-trainer.herokuapp.com/"
       },
       {
         "title":"Note Taker",
-        "category":"Note Taker Assistant made with javascript and Express ",
+        "category":"Note Taker Assistant",
         "image":"NoteTaker.png",
-        "url":"https://github.com/Drop-G/NoteTakerAssistant"
+        "url":"https://github.com/Drop-G/NoteTakerAssistant",
+        "live":"https://scribe-for-me.herokuapp.com/"
       },
       {
-        "title":"Merx SpeedRunner",
-        "category":"Video Game SpeedRun Application",
-        "image":"merx.png",
-        "url":"https://github.com/Drop-G/Merx"
+        "title":"Django Blog",
+        "category":"Blog application made using python and django",
+        "image":"secureblog.png",
+        "url":"https://github.com/Drop-G/SecuredBlog",
+        "live":"https://secured-blog.herokuapp.com/"
       }
     ]
   }
