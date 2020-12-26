@@ -12,7 +12,7 @@ class Portfolio extends Component {
               <img alt={projects.title} src={projectImage} />
               <ul className="text-center">
                 <a href={projects.live} className="button btn project-btn "><i className="fa fa-book"></i> {projects.title}</a>
-                <a href={projects.url} className="button btn github-btn "><i className="fa fa-github"></i>Project Repo</a>
+                <a href={projects.url} className="button btn github-btn "><i className="fa fa-github"></i>{projects.title} "Repo"</a>
               </ul>
           </div>
         )
