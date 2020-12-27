@@ -416,12 +416,12 @@ ul#nav li.current a { color: #0F9095; }
    padding-bottom: 60px;
 }
 #portfolio h1 {
-   font: 15px/24px 'opensans-semibold', sans-serif;
+   font: 30px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
    text-align: center;
    margin-bottom: 48px;
-   color: #95A3A3;
+   color: #111;
 }
 
 /* Portfolio Content */
@@ -836,7 +836,7 @@ footer .social-links li {
     margin: 0;
     padding: 0;
     margin-left: 42px;
-    color: #F06000;
+    color: #0F9095;
 }
 
 footer .social-links li:first-child { margin-left: 0; }

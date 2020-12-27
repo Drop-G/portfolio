@@ -11,8 +11,8 @@ class Portfolio extends Component {
           <div key={projects.title}>
               <img alt={projects.title} src={projectImage} />
               <ul className="text-center">
-                <a href={projects.live} className="button btn project-btn "><i className="fa fa-book"></i> {projects.title}</a>
-                <a href={projects.url} className="button btn github-btn "><i className="fa fa-github"></i>{projects.title} "Repo"</a>
+                <a href={projects.live} className="button btn project-btn "><i className="fas fa-walking"></i> {projects.title} Application</a>
+                <a href={projects.url} className="button btn github-btn "><i className="fab fa-github-alt"></i> {projects.title} Repository</a>
               </ul>
           </div>
         )
