@@ -111,6 +111,7 @@
         "title":"AdvenSure",
         "category":"click here to see the code",
         "image":"advensure.png",
+        "description":"Personal assistant for creating a packing list for travel. Uses UI framework React, Node.js for a runtime enviroment, MongoDB for a cross platfrom document oriented database, and an express server.",
         "url":"https://github.com/Drop-G/AdvenSure",
         "live":"https://advensurez.herokuapp.com/"
       },
@@ -118,6 +119,7 @@
         "title":"Mobile Wallet",
         "category":"click here to see the code",
         "image":"budget.png",
+        "description":"Keep track of deposits and withdrawals either on the web or download to a device with this progressive web application.",
         "url":"https://github.com/Drop-G/budget-tracker",
         "live":"https://mobile-wally.herokuapp.com/"
       },
@@ -125,6 +127,7 @@
         "title":"Get Me Outta Here (GO'H)",
         "category":"click here to see the code",
         "image":"gmoh.png",
+        "description": "Keep track of deposits and withdrawals either on the web or download to a device with this progressive web application. Uses UI framework React, Node.js for a runtime enviroment, MongoDB for a cross platfrom document oriented database, and an express server.",
         "url":"https://github.com/Drop-G/GetMeOutOfHereApp",
         "live":"https://drop-g.github.io/GetMeOutOfHereApp/"
       },
@@ -132,6 +135,7 @@
         "title":"Employee Directory",
         "category":"click here to see the code",
         "image":"staff.png",
+        "description":"Employee Directory is a react application that uses the context API hook to render the context value of all employees.",
         "url":"https://github.com/Drop-G/WorkLyfe",
         "live":"https://staff-station.herokuapp.com/"
       },
@@ -139,6 +143,7 @@
         "title":"React Reading List",
         "category":"click here to see the code",
         "image":"readinglist.png",
+        "description":"This personal assistant will store your upcoming book lists using node, express, and mongoDb",
         "url":"https://github.com/Drop-G/ReactReadingList",
         "live":"https://i-read-books.herokuapp.com/"
       },
@@ -146,6 +151,7 @@
         "title":"Mobile Trainer",
         "category":"click here to see the code",
         "image":"fitnesstracker.png",
+        "description":"Keep track of your workouts with this easy to use mobile app. This app is equipped with Node.js, express, and MongoDB",
         "url":"https://github.com/Drop-G/mobile-trainer",
         "live":"https://mobile-trainer.herokuapp.com/"
       },
@@ -153,6 +159,7 @@
         "title":"Note Taker",
         "category":"click here to see the code",
         "image":"notes.png",
+        "description":"Personal note taker in the palm of your hand using node and express.",
         "url":"https://github.com/Drop-G/NoteTakerAssistant",
         "live":"https://scribe-for-me.herokuapp.com/"
       },
@@ -160,6 +167,7 @@
         "title":"Squawk",
         "category":"click here to see the code",
         "image":"securedblog.png",
+        "description":"Squawk is an easy to use blog page that anyone can add to that sets up a login. Built with python and Django",
         "url":"https://github.com/Drop-G/SecuredBlog",
         "live":"https://secured-blog.herokuapp.com/"
       }
