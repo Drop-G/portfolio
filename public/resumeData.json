@@ -45,61 +45,81 @@
         "description":""
       },
       {
-        "school":"Gateway Community College",
-        "degree":"liberal Arts and Sciences",
-        "graduated":"2010-2012",
-        "description":""
-      },
-      {
         "school":"Southern Maine Community College",
         "degree":"Biotechnology",
         "graduated":"2014-2015",
+        "description":""
+      },
+      {
+        "school":"Gateway Community College",
+        "degree":"liberal Arts and Sciences",
+        "graduated":"2010-2012",
         "description":""
       }
     ],
     "skills":[
       {
-        "name":"ReactJs"
+        "name":"ReactJs",
+        "image": "react.png"
       },
       {
-        "name":"Javascript"
+        "name":"Javascript",
+        "image": "react.png"
+
       },
       {
-        "name":"Python"
+        "name":"Python",
+        "image": "react.png"
       },
       {
-        "name":"Express"
+        "name":"Express",
+        "image": "react.png"
       },
       {
-        "name":"MySQL"
+        "name":"MySQL",
+        "image": "react.png"
       },
       {
-        "name":"MongoDB"
+        "name":"MongoDB",
+        "image": "react.png"
       },
       {
-        "name":"NodeJs"
+        "name":"NodeJs",
+        "image": "react.png"
       },
       {
-        "name":"CSS"
+        "name":"CSS",
+        "image": "react.png"
       },
       {
-        "name":"SCSS"
+        "name":"SCSS",
+        "image": "react.png"
       },
       {
-        "name":"Swift"
+        "name":"Swift",
+        "image": "react.png"
       },
       {
-        "name":"Django"
+        "name":"Django",
+        "image": "react.png"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
+        "title":"Squawk",
+        "category":"click here to see the code",
+        "image":"securedblog.png",
+        "description":"Uses python web framework, Django. Admin account is created as a super user from the root and has all access to delete users and their posts. Users are validated through Django’s out of the box authentication system. Users are able to view other user’s posts, but cannot modify anything that wasn't created by them. Includes password reset function that will send reset to the users email upon verification. Also provides the user the ability to update their profile with a pictur. Images are stored in an AWS S3 Bucket. Site is hosted by heroku",
+        "url":"https://github.com/Drop-G/SecuredBlog",
+        "live":"https://secured-blog.herokuapp.com/"
+      },
+      {
         "title":"AdvenSure",
         "category":"click here to see the code",
         "image":"advensure.png",
-        "description":"Personal assistant for creating a packing list for travel. Uses UI framework React, Node.js for a runtime enviroment, MongoDB for a cross platfrom document oriented database, and an express server.",
+        "description":"Full Stack “MERN'' Application that uses passport.js and custom hooks for user authorization. Packing list information is updated by 'use effect' hooks. Site is hosted by Heroku",
         "url":"https://github.com/Drop-G/AdvenSure",
         "live":"https://advensurez.herokuapp.com/"
       },
@@ -107,7 +127,7 @@
         "title":"Mobile Wallet",
         "category":"click here to see the code",
         "image":"budget.png",
-        "description":"Keep track of deposits and withdrawals either on the web or download to a device with this progressive web application.",
+        "description":"Example of a PWA. This can be downloaded and used offline.",
         "url":"https://github.com/Drop-G/budget-tracker",
         "live":"https://mobile-wally.herokuapp.com/"
       },
@@ -115,7 +135,7 @@
         "title":"Get Me Outta Here (GO'H)",
         "category":"click here to see the code",
         "image":"gmoh.png",
-        "description": "Keep track of deposits and withdrawals either on the web or download to a device with this progressive web application. Uses UI framework React, Node.js for a runtime enviroment, MongoDB for a cross platfrom document oriented database, and an express server.",
+        "description": "Node Js application that will find outdoor activities near the users location using MapBox's API, and supports real time weather alerts around the location of those events using Open Weather Map's API ",
         "url":"https://github.com/Drop-G/GetMeOutOfHereApp",
         "live":"https://drop-g.github.io/GetMeOutOfHereApp/"
       },
@@ -139,7 +159,7 @@
         "title":"Mobile Trainer",
         "category":"click here to see the code",
         "image":"fitnesstracker.png",
-        "description":"Keep track of your workouts with this easy to use mobile app. This app is equipped with Node.js, express, and MongoDB",
+        "description":"Keep track of your workouts with this easy to use mobile app. Uses Node.Js for the app framework. Includes visual graphs to portray workout history over time.",
         "url":"https://github.com/Drop-G/mobile-trainer",
         "live":"https://mobile-trainer.herokuapp.com/"
       },
@@ -147,17 +167,9 @@
         "title":"Note Taker",
         "category":"click here to see the code",
         "image":"notes.png",
-        "description":"Personal note taker in the palm of your hand using node and express.",
+        "description":"Personal note taker in the palm of your hand using node and express. Stores notes in JSON then parses that information to be displayed as html.",
         "url":"https://github.com/Drop-G/NoteTakerAssistant",
         "live":"https://scribe-for-me.herokuapp.com/"
-      },
-      {
-        "title":"Squawk",
-        "category":"click here to see the code",
-        "image":"securedblog.png",
-        "description":"Squawk is an easy to use blog page that anyone can add to that sets up a login. Built with python and Django",
-        "url":"https://github.com/Drop-G/SecuredBlog",
-        "live":"https://secured-blog.herokuapp.com/"
       }
     ]
   }

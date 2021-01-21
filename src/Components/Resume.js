@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-
 class Resume extends Component {
   
   render() {
@@ -11,7 +10,7 @@ class Resume extends Component {
         <p>{education.description}</p></div>
       })
       var skills = this.props.data.skills.map((skills)=>{
-        var className = 'bar-expand '+skills.name.toLowerCase();
+        var className = 'bar-expand'+skills.name.toLowerCase();
         return (
           <li key={skills.name}>
             <span className={className}></span><em>{skills.name}</em>
@@ -51,6 +50,9 @@ class Resume extends Component {
 					</ul>
 				</div>
 			</div>
+        <div>
+
+        </div>
       </div>
    </section>
     );

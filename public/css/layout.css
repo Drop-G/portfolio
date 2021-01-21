@@ -43,30 +43,32 @@ header .banner {
    display: inline-block;
    vertical-align: middle;
    margin: 0 auto;
-   width: 85%;
-   padding-bottom: 30px;
-   padding-top: 30px;
+   width: 50%;
+   padding-bottom: 5px;
+   padding-top: 5px;
+   padding-right: 10px;
+   padding-left: 10px;
    text-align: center;
-   border-radius: 30px;
+   border-radius: 15px;
    background-color: rgba(0, 0, 0, 0.5);
 }
 
 header .banner-text { width: 100%; }
 header .banner-text h1 {
-   font: 90px/1.1em 'Montserrat', sans-serif;
-   color:#fff;
+   font: 90px/1.1em 'Courier Prime', monospace;
+   color:#0F9095;
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
 }
 header .banner-text h3 {
-   font: 18px/1.9em 'librebaskerville-regular', serif;
-   color: #fff;
+   font: 18px/1.9em 'Courier Prime', monospace;
+   color:#0F9095;
    margin: 0 auto;
    width: 70%;
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
-   color: #fff;
+   color: #0F9095;
 }
 header .banner-text hr {
    width: 60%;
@@ -121,7 +123,7 @@ header .scrolldown a:hover { color: #0F9095; }
 
 /* nav-wrap */
 #nav-wrap {
-   font: 12px 'opensans-bold', sans-serif;
+   font: 12px 'Courier Prime', monospace;
    width: 100%;
    text-transform: uppercase;
    letter-spacing: 2.5px;
@@ -189,7 +191,7 @@ ul#nav li.current a { color: #0F9095; }
 #about a:hover, #about a:focus { color: #4ebcc0; }
 
 #about h2 {
-   font: 22px/30px 'opensans-bold', sans-serif;
+   font: 22px/30px 'Courier Prime', monospace;
    color: #fff;
    margin-bottom: 12px;
 }
@@ -239,7 +241,7 @@ ul#nav li.current a { color: #0F9095; }
 #resume a:hover, #resume a:focus { color: #313131; }
 
 #resume h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;
+   font: 18px/24px 'Courier Prime', monospace;
    text-transform: uppercase;
    letter-spacing: 1px;
 }
@@ -248,7 +250,7 @@ ul#nav li.current a { color: #0F9095; }
    padding-bottom: 6px;
 }
 #resume h3 {
-   font: 25px/30px 'opensans-bold', sans-serif;
+   font: 25px/30px 'Courier Prime', monospace;
 }
 
 #resume .header-col { padding-top: 9px; }
@@ -260,7 +262,7 @@ ul#nav li.current a { color: #0F9095; }
    border-bottom: 1px solid #E8E8E8;
 }
 #resume .info {
-   font: 16px/24px 'librebaskerville-italic', serif;
+   font: 16px/24px 'Courier Prime', monospace;
    color: #6E7881;
    margin-bottom: 18px;
    margin-top: 9px;
@@ -270,7 +272,7 @@ ul#nav li.current a { color: #0F9095; }
    margin-left: 5px;
 }
 #resume .date {
-   font: 15px/24px 'opensans-regular', sans-serif;
+   font: 15px/24px 'Courier Prime', monospace;
    margin-top: 6px;
 }
 
@@ -297,7 +299,7 @@ ul#nav li.current a { color: #0F9095; }
   	border-radius: 0px;
 }
 .bars li em {
-	font: 15px 'opensans-bold', sans-serif;
+	font: 15px 'Courier Prime', monospace;
    color: #313131;
 	text-transform: uppercase;
    letter-spacing: 2px;
@@ -396,18 +398,16 @@ ul#nav li.current a { color: #0F9095; }
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
 /* ------------------------------------------------------------------ */
-
 #portfolio {
    background: #ebeeee;
-   padding-top: 90px;
-   padding-bottom: 60px;
+   padding-top: 20px;
+   padding-bottom: 50px;
 }
 #portfolio h1 {
-   font: 30px 'opensans-bold', sans-serif;
+   font: 30px 'Courier Prime', monospace;
    text-transform: uppercase;
    letter-spacing: 1px;
    text-align: center;
-   margin-bottom: 48px;
    color: #111;
 }
 
@@ -429,6 +429,15 @@ ul#nav li.current a { color: #0F9095; }
    cursor: pointer;
 }
 
+.project-title {
+   font: 30px 'Courier Prime', monospace;
+   text-decoration: underline;
+   padding-top: 40px;
+}
+.project {
+   padding-bottom: 20px;
+   padding-top: 20px;
+}
 /* overlay */
 .portfolio-item .item-wrap .overlay {
    position: absolute;
@@ -473,19 +482,24 @@ ul#nav li.current a { color: #0F9095; }
    margin-top: -15px;
 }
 .description {
-   font: 14px/21px 'opensans-bold', sans-serif;
-
+   font: 20px/27px 'Courier Prime', monospace;
+   font-weight: bold;
+   color: #000000;
+}
+.line {
+   line-height: 20px;
+   font-weight: bolder;
 }
 .portfolio-item .item-wrap img {
    vertical-align: bottom;
 }
 .portfolio-item .portfolio-item-meta { padding: 18px }
 .portfolio-item .portfolio-item-meta h5 {
-   font: 14px/21px 'opensans-bold', sans-serif;
+   font: 14px/21px 'Courier Prime', monospace;
    color: #fff;
 }
 .portfolio-item .portfolio-item-meta p {
-   font: 12px/18px 'opensans-light', sans-serif;
+   font: 12px/18px 'Courier Prime', monospace;
    color: #c6c7c7;
    margin-bottom: 0;
 }
@@ -511,18 +525,18 @@ ul#nav li.current a { color: #0F9095; }
 }
 .popup-modal .description-box { padding: 12px 36px 18px 36px; }
 .popup-modal .description-box h4 {
-   font: 15px/24px 'opensans-bold', sans-serif;
+   font: 15px/24px 'Courier Prime', monospace;
 	margin-bottom: 12px;
    color: #111;
 }
 .popup-modal .description-box p {
-	font: 14px/24px 'opensans-regular', sans-serif;
-   color: #A1A1A1;
+	font: 14px/24px 'Courier Prime', monospace;
+   color:#000000;
    margin-bottom: 12px;
 }
 .popup-modal .description-box .categories {
-   font: 11px/21px 'opensans-light', sans-serif;
-   color: #A1A1A1;
+   font: 11px/21px 'Courier Prime', monospace;
+   color: #000000;
    text-transform: uppercase;
    letter-spacing: 2px;
    display: block;
@@ -538,7 +552,7 @@ ul#nav li.current a { color: #0F9095; }
 }
 .popup-modal .link-box a {
    color: #fff;
-	font: 11px/21px 'opensans-bold', sans-serif;
+	font: 11px/21px 'Courier Prime', monospace;
 	text-transform: uppercase;
    letter-spacing: 3px;
    cursor: pointer;
@@ -578,7 +592,7 @@ ul#nav li.current a { color: #0F9095; }
    padding-bottom: 48px;
 }
 #call-to-action h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;
+   font: 18px/24px 'Courier Prime', monospace;
    text-transform: uppercase;
    letter-spacing: 3px;
    color: #fff;
@@ -598,7 +612,7 @@ ul#nav li.current a { color: #0F9095; }
    margin-top: 12px;
 }
 #call-to-action h2 {
-   font: 28px/36px 'opensans-bold', sans-serif;
+   font: 28px/36px 'Courier Prime', monospace;
    color: #EBEEEE;
    margin-bottom: 6px;
 }
@@ -621,7 +635,7 @@ call-to-action .button {
    color: #0D0D0D;
 }
 #call-to-action p span {
-	font-family: 'opensans-semibold', sans-serif;
+	font-family: 'Courier Prime', monospace;
 	color: #D8D8D8;
 }
 
@@ -645,7 +659,7 @@ call-to-action .button {
    padding-bottom: 66px;
 }
 #testimonials h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;
+   font: 18px/24px 'Courier Prime', monospace;
    text-transform: uppercase;
    letter-spacing: 3px;
    color: #fff;
@@ -672,7 +686,7 @@ call-to-action .button {
 }
 #testimonials blockquote:before { content: none; }
 #testimonials blockquote p {
-   font-family: 'librebaskerville-italic', serif;
+   font-family: 'Courier Prime', monospace;
    padding: 0;
    font-size: 24px;
    line-height: 48px;
@@ -780,8 +794,6 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 footer {
-   padding-top: 48px;
-   padding-bottom: 48px;
    color: #0F9095;
    font-size: 14px;
    text-align: center;
@@ -873,7 +885,13 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 .project-btn{
    background-color: #0b526e !important;
+   font-size: 12 px;
+
 }
 .github-btn{
    background-color: #4ebcc0 !important;
+   font-size: 12 px;
+}
+.btn {
+   font-size:small;
 }

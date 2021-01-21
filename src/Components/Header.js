@@ -5,7 +5,6 @@ class Header extends Component {
    render() {
 
       if (this.props.data) {
-         var project = this.props.data.project;
          var github = this.props.data.github;
          var name = this.props.data.name;
          var description = this.props.data.description;
@@ -26,14 +25,13 @@ class Header extends Component {
             </nav>
 
             <div className="row banner">
-
                <div className="banner-text">
                   <h1 className="responsive-headline">{name}</h1>
                   <h3>{description}.</h3>
                   <hr />
                   <ul className="social">
-                     <a href={project} className="button btn project-btn"><i className="fa fa-book"></i>Portfolio Code</a>
-                     <a href={github} className="button btn github-btn"><i className="fab fa-github-alt"></i>Github</a>
+                     <br></br>
+                     <a href={github}><i className="fab fa-github-alt"></i>Github</a>
                   </ul>
                </div>
             </div>
