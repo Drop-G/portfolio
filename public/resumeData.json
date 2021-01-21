@@ -59,49 +59,37 @@
     ],
     "skills":[
       {
-        "name":"ReactJs",
-        "image": "react.png"
+        "name":"ReactJs"
       },
       {
-        "name":"Javascript",
-        "image": "react.png"
-
+        "name":"Javascript"
       },
       {
-        "name":"Python",
-        "image": "react.png"
+        "name":"Python"
       },
       {
-        "name":"Express",
-        "image": "react.png"
+        "name":"Express"
       },
       {
-        "name":"MySQL",
-        "image": "react.png"
+        "name":"MySQL"
       },
       {
-        "name":"MongoDB",
-        "image": "react.png"
+        "name":"MongoDB"
       },
       {
-        "name":"NodeJs",
-        "image": "react.png"
+        "name":"NodeJs"
       },
       {
-        "name":"CSS",
-        "image": "react.png"
+        "name":"CSS"
       },
       {
-        "name":"SCSS",
-        "image": "react.png"
+        "name":"SCSS"
       },
       {
-        "name":"Swift",
-        "image": "react.png"
+        "name":"Swift"
       },
       {
-        "name":"Django",
-        "image": "react.png"
+        "name":"Django"
       }
     ]
   },
