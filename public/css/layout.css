@@ -244,7 +244,7 @@ ul#nav li.current a { color: #0F9095; }
    letter-spacing: 1px;
 }
 #resume h1 span {
-   border-bottom: 3px solid #0762f9;
+   border-bottom: 3px solid #0F9095;
    padding-bottom: 6px;
 }
 #resume h3 {
@@ -292,8 +292,8 @@ ul#nav li.current a { color: #0F9095; }
 .bars li {
    position: relative;
   	margin-bottom: 60px;
-  	background: #096ec5;
-  	height: 42px;
+  	background: #0F9095;
+  	height: 3px;
   	border-radius: 0px;
 }
 .bars li em {
@@ -304,19 +304,6 @@ ul#nav li.current a { color: #0F9095; }
 	font-weight: normal;
    position: relative;
 	top: -36px;
-}
-.bar-expand {
-   position: absolute;
-   left: 0;
-   top: 0;
-
-   margin: 0;
-   padding-right: 24px;
-  	background: #313131;
-   display: inline-block;
-  	height: 42px;
-   line-height: 42px;
-   border-radius: 0px;
 }
 /*
 .git {

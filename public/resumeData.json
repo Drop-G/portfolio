@@ -31,13 +31,12 @@
     ]
   },
   "resume":{
-    "skillmessage":"I have built functioning applications with languages like HTML5, CSS, SCSS, XML, ReactJS, NodeJS, JQuery, Javascript, MySQL, MongoDB, and Swift.",
     "education":[
       {
         "school":"University of Texas at Austin",
         "degree":"Full Stack Web Development Bootcamp",
         "graduated":"2020-2020",
-        "description":"Studied 80 hrs+ a week to learn how to use specific libraries and languages to create fully functioning and responsive progressive web applications."
+        "description":""
       },
       {
         "school":"Portland Community College",
@@ -60,48 +59,37 @@
     ],
     "skills":[
       {
-        "name":"ReactJs",
-        "level":"55%"
+        "name":"ReactJs"
       },
       {
-        "name":"Javascript",
-        "level":"55%"
+        "name":"Javascript"
       },
       {
-        "name":"Python",
-        "level":"25%"
+        "name":"Python"
       },
       {
-        "name":"Express",
-        "level":"80%"
+        "name":"Express"
       },
       {
-        "name":"MySQL",
-        "level":"35%"
+        "name":"MySQL"
       },
       {
-        "name":"MongoDB",
-        "level":"70%"
+        "name":"MongoDB"
       },
       {
-        "name":"NodeJs",
-        "level":"60%"
+        "name":"NodeJs"
       },
       {
-        "name":"CSS",
-        "level":"85%"
+        "name":"CSS"
       },
       {
-        "name":"SCSS",
-        "level":"40%"
+        "name":"SCSS"
       },
       {
-        "name":"Swift",
-        "level":"15%"
+        "name":"Swift"
       },
       {
-        "name":"Django",
-        "level":"25%"
+        "name":"Django"
       }
     ]
   },

@@ -6,10 +6,13 @@ class Portfolio extends Component {
     if (this.props.data) {
       var projects = this.props.data.projects.map(function (projects) {
         var projectImage = 'images/portfolio/' + projects.image;
+        var projectlink = projects.live;
 
         return (
           <div key={projects.title}>
+            <a href = {projectlink} >
               <img alt={projects.title} src={projectImage} />
+            </a>
               <p class= "description text-center">{projects.description}</p>
               <ul className="text-center">
                 <a href={projects.live} className="button btn project-btn "><i className="fas fa-walking"></i> {projects.title} Application</a>
