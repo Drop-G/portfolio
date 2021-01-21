@@ -14,7 +14,7 @@ class Portfolio extends Component {
               <img alt={projects.title} src={projectImage} />
             </a>
               <h1 className="project-title">{projects.title}</h1>
-              <p class= "description text-center">{projects.description}</p>
+              <p className= "description text-center">{projects.description}</p>
               <ul className="text-center">
                 <a href={projects.live} className="button btn project-btn "><i className="fas fa-walking"></i> {projects.title} Application</a>
                 <a href={projects.url} className="button btn github-btn "><i className="fab fa-github-alt"></i> {projects.title} Repository</a>
