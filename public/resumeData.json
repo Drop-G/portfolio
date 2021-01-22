@@ -99,7 +99,7 @@
         "title":"Squawk",
         "category":"click here to see the code",
         "image":"securedblog.png",
-        "description":"Uses python web framework, Django. Admin account is created as a super user from the root and has all access to delete users and their posts. Users are validated through Django’s out of the box authentication system. Users are able to view other user’s posts, but cannot modify anything that wasn't created by them. Includes password reset function that will send reset to the users email upon verification. Also provides the user the ability to update their profile with a pictur. Images are stored in an AWS S3 Bucket. Site is hosted by heroku",
+        "description":"Uses python web framework, Django as well as Django's HTML templates for the front-end. Users are validated through Django’s out of the box authentication system with an additional user model. Images are stored in an AWS S3 Bucket. Site is hosted on heroku.",
         "url":"https://github.com/Drop-G/SecuredBlog",
         "live":"https://secured-blog.herokuapp.com/"
       },
@@ -115,7 +115,7 @@
         "title":"Mobile Wallet",
         "category":"click here to see the code",
         "image":"budget.png",
-        "description":"Example of a PWA. This can be downloaded and used offline.",
+        "description":"This banking app is an example of a progressive web application I created. This can be downloaded and used offline.",
         "url":"https://github.com/Drop-G/budget-tracker",
         "live":"https://mobile-wally.herokuapp.com/"
       },
@@ -123,7 +123,7 @@
         "title":"Get Me Outta Here (GO'H)",
         "category":"click here to see the code",
         "image":"gmoh.png",
-        "description": "Node Js application that will find outdoor activities near the users location using MapBox's API, and supports real time weather alerts around the location of those events using Open Weather Map's API ",
+        "description": "Node application that will find outdoor activities near the users location using the 'MapBox' API. Also supports real time weather alerts around the potential destination using the 'Open Weather Map' API ",
         "url":"https://github.com/Drop-G/GetMeOutOfHereApp",
         "live":"https://drop-g.github.io/GetMeOutOfHereApp/"
       },
@@ -131,7 +131,7 @@
         "title":"Employee Directory",
         "category":"click here to see the code",
         "image":"staff.png",
-        "description":"Employee Directory is a react application that uses the context API hook to render the context value of all employees.",
+        "description":"Employee Directory is a React application that uses the context API hook to render the context value of all employees.",
         "url":"https://github.com/Drop-G/WorkLyfe",
         "live":"https://staff-station.herokuapp.com/"
       },
@@ -139,7 +139,7 @@
         "title":"React Reading List",
         "category":"click here to see the code",
         "image":"readinglist.png",
-        "description":"This personal assistant will store your upcoming book lists using node, express, and mongoDb",
+        "description":"This personal assistant will store your upcoming book lists using Node, Express, and MongoDB",
         "url":"https://github.com/Drop-G/ReactReadingList",
         "live":"https://i-read-books.herokuapp.com/"
       },
@@ -147,7 +147,7 @@
         "title":"Mobile Trainer",
         "category":"click here to see the code",
         "image":"fitnesstracker.png",
-        "description":"Keep track of your workouts with this easy to use mobile app. Uses Node.Js for the app framework. Includes visual graphs to portray workout history over time.",
+        "description":"Keep track of your workouts with this easy to use mobile app. Node Web Application that includes visual graphs to display workout history over time.",
         "url":"https://github.com/Drop-G/mobile-trainer",
         "live":"https://mobile-trainer.herokuapp.com/"
       },
@@ -155,7 +155,7 @@
         "title":"Note Taker",
         "category":"click here to see the code",
         "image":"notes.png",
-        "description":"Personal note taker in the palm of your hand using node and express. Stores notes in JSON then parses that information to be displayed as html.",
+        "description":"Simple Node Web Application.",
         "url":"https://github.com/Drop-G/NoteTakerAssistant",
         "live":"https://scribe-for-me.herokuapp.com/"
       }
